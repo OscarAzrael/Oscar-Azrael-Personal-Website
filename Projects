@@ -1,0 +1,38 @@
+<!DOCTYPE>
+<html>
+
+<head>
+
+<title>Projects</title>
+
+<style>
+
+    body {background-color: black;}
+    h1 {color:red;}
+    p {color: red;}
+
+</style>
+
+</head>
+
+<body>
+
+ <h1> Projects </h1>
+
+ <br><br>
+ <p>I enjoy making my own software. All of my projects are free and open source.
+My projects can be found here.</p>
+
+ <br><br>
+ <a href = "index.html">Homepage</a>
+
+<br><br>
+<p>Oscar Azrael</p>
+<p>Last Updated 2026<p>
+
+
+</body>
+
+
+</html>
+
